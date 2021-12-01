@@ -1,3 +1,3 @@
-```
-Hello, I like computers.
+```vb6
+On Error Resume Next
 ```
